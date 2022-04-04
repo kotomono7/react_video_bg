@@ -1,1 +1,1 @@
-![React Video Background](https://github.com/kotomono7/kotomono_landing_page/blob/master/img/preview.png?raw=true)
+![React Video Background](https://github.com/kotomono7/react_video_bg/blob/main/preview.png?raw=true)
